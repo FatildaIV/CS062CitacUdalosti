@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OAnun76ZED7fAcdsf53tMsW+2FerGys8wWWmpayexPITFbW967oWyc71KyooiWP9zDgwXYjPXWdi1IuQM212Ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alesa\\Downloads\\CS062CitacUdalosti\\CS062CitacUdalosti\\CS062CitacUdalosti\\CS062CitacUdalosti.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alesa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
